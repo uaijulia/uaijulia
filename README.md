@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Julia!
 
-<!--
-**uaijulia/uaijulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante, no segundo período de Análise e Desenvolvimento de Sistemas pela USF.
+🚀 Em transição de carreira para a área de tecnologia  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Atualmente estudando
+- Lógica de Programação  
+- HTML, CSS e JavaScript  
+- Banco de Dados (SQL)  
+
+---
+
+## 🎯 Objetivo
+Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento de sistemas, aprendizado contínuo e crescimento profissional.
+
+---
+
+## 📂 Projetos
+🚧 Em desenvolvimento...  
+Em breve publicarei meus primeiros projetos práticos aqui no GitHub.
+
+---
+
+## 🚀 Próximos passos
+- Criar um sistema de cadastro de clientes (CRUD)  
+- Desenvolver uma lista de tarefas (To-do List)  
+- Construir um controle de gastos pessoais  
+
+---
+
+## 📫 Contato
+📧 oi.juliaguedes@gmail.com
