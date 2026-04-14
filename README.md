@@ -1,33 +1,54 @@
-# 👋 Olá, eu sou a Julia!
-
-💻 Graduanda no 2º período de Análise e Desenvolvimento de Sistemas. 
-📍 Brasil  
+Oi, eu sou a Julia!
 
 ---
 
-## 🧠 Atualmente estudando
-- Engenharia de Software
-- Lógica de Programação  
-- HTML, CSS e JavaScript  
-- Banco de Dados  
+### 🌱 Sobre mim
+
+**Graduanda em Análise e Desenvolvimento de Sistemas**, em constante evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionam meu crescimento como desenvolvedora.
+
+Este espaço funciona como um **registro da minha jornada**, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
 
 ---
 
-## 🎯 Objetivo
-Este repositório acompanha minha jornada de aprendizado em tecnologia, registrando minha evolução, estudos e projetos em desenvolvimento de sistemas.
+### 🎯 Objetivo deste repositório
+
+Este repositório não é apenas um portfólio estático, mas um ambiente vivo de evolução, onde documento:
+
+* 📚 Estudos e aprendizados em programação
+* 💻 Projetos práticos e experimentos
+* 🧠 Evolução de lógica e pensamento computacional
+* 🚀 Evolução de aprendizado na área de tecnologia
 
 ---
 
-## 📂 Projetos
-🚧 Em desenvolvimento...  
+### 🛠️ O que venho estudando
+
+> (Atualizando conforme minha evolução)
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* Lógica de programação
+* Engenharia de Software
 
 ---
 
-## 🚀 Próximos passos 
-- Desenvolver uma lista de tarefas (To-do List)  
-- Construir um controle de gastos pessoais  
+### 📈 Minha jornada
+
+Aqui registro minha evolução de forma progressiva, como um diário técnico.  
+Cada projeto representa uma etapa do meu crescimento como desenvolvedora.
 
 ---
 
-## 📫 Contato
-📧 oi.juliaguedes@gmail.com
+### 📫 Contato
+
+* oi.juliaguedes@gmail.com
+
+---
+
+> “A consistência constrói aquilo que o talento sozinho não sustenta.”
+
+---
+
+⭐ Obrigada por visitar meu espaço de evolução.
