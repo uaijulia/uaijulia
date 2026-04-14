@@ -7,9 +7,10 @@
 ---
 
 ## 🧠 Atualmente estudando
+- Engenharia de Software
 - Lógica de Programação  
 - HTML, CSS e JavaScript  
-- Banco de Dados (SQL)  
+- Banco de Dados  
 
 ---
 
@@ -20,12 +21,10 @@ Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvi
 
 ## 📂 Projetos
 🚧 Em desenvolvimento...  
-Em breve publicarei meus primeiros projetos práticos aqui no GitHub.
 
 ---
 
-## 🚀 Próximos passos
-- Criar um sistema de cadastro de clientes (CRUD)  
+## 🚀 Próximos passos 
 - Desenvolver uma lista de tarefas (To-do List)  
 - Construir um controle de gastos pessoais  
 
