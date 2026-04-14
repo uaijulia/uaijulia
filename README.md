@@ -4,7 +4,7 @@ Oi, eu sou a Julia!
 
 ### 🌱 Sobre mim
 
-**Graduanda em Análise e Desenvolvimento de Sistemas**, buscando constantemente evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionem meu crescimento como desenvolvedora.
+Graduanda pela USF, no segundo período em **Análise e Desenvolvimento de Sistemas**, buscando constantemente evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionem meu crescimento como desenvolvedora.
 
 Este espaço funciona como um **registro da minha jornada**, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
 
