@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Julia!
 
-💻 Estudante, no segundo período de Análise e Desenvolvimento de Sistemas pela USF.
-🚀 Em transição de carreira para a área de tecnologia  
+💻 Graduanda de Análise e Desenvolvimento. 
 📍 Brasil  
 
 ---
