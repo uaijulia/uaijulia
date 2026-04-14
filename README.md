@@ -4,7 +4,7 @@ Oi, eu sou a Julia!
 
 ### 🌱 Sobre mim
 
-**Graduanda em Análise e Desenvolvimento de Sistemas**, em constante evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionam meu crescimento como desenvolvedora.
+**Graduanda em Análise e Desenvolvimento de Sistemas**, buscando constantemente evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionem meu crescimento como desenvolvedora.
 
 Este espaço funciona como um **registro da minha jornada**, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
 
@@ -14,10 +14,10 @@ Este espaço funciona como um **registro da minha jornada**, quase como um blog 
 
 Este repositório não é apenas um portfólio estático, mas um ambiente vivo de evolução, onde documento:
 
-* 📚 Estudos e aprendizados em programação
-* 💻 Projetos práticos e experimentos
-* 🧠 Evolução de lógica e pensamento computacional
-* 🚀 Evolução de aprendizado na área de tecnologia
+* Estudos e aprendizados em programação
+* Projetos práticos e experimentos
+* Evolução de lógica e pensamento computacional
+* Evolução de aprendizado na área de tecnologia
 
 ---
 
