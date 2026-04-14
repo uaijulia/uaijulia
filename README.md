@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Julia!
 
-💻 Graduanda de Análise e Desenvolvimento. 
+💻 Graduanda no 2º período de Análise e Desenvolvimento de Sistemas. 
 📍 Brasil  
 
 ---
