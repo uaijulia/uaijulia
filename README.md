@@ -15,7 +15,7 @@
 ---
 
 ## 🎯 Objetivo
-Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento de sistemas, aprendizado contínuo e crescimento profissional.
+Este repositório acompanha minha jornada de aprendizado em tecnologia, registrando minha evolução, estudos e projetos em desenvolvimento de sistemas.
 
 ---
 
