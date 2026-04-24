@@ -1,54 +1,42 @@
-Oi, eu sou a Julia!
+<p align="center">
+  <a href="https://www.linkedin.com/in/julia-guedes-364a00329">
+    <img src="[https://chatgpt.com/s/m_69ead6a30bb881918d359abfb3a878a7](https://chatgpt.com/backend-api/estuary/content?id=file_00000000b158720ea623ff48a0a1cef1&ts=493610&p=fs&cid=1&sig=252ad53bdca39978aa0c3d75be4fa0e647d472f008a712ca0988a697c76dcad0&v=0]" alt="capa julia guedes"/>
+  </a>
+</p>
 
 ---
 
-### 🌱 Sobre mim
+#### Oi, eu sou a Julia!
 
-Graduanda pela USF, no segundo período em **Análise e Desenvolvimento de Sistemas**, buscando constantemente evolução na área de tecnologia. Foco em desenvolvimento de sistemas, aprendizado contínuo e projetos práticos que impulsionem meu crescimento como desenvolvedora.
+Eu sou Julia, graduanda em **Análise e Desenvolvimento de Sistemas**, curiosa, criativa, focada em desenvolvimento de sistemas e que adora ver o resultado de um trabalho bem feito! 
 
-Este espaço funciona como um **registro da minha jornada**, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
-
----
-
-### 🎯 Objetivo deste repositório
-
-Este repositório não é apenas um portfólio estático, mas um ambiente vivo de evolução, onde documento:
-
-* Estudos e aprendizados em programação
-* Projetos práticos e experimentos
-* Evolução de lógica e pensamento computacional
-* Evolução de aprendizado na área de tecnologia
+Este espaço é um diário da minha jornada, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
 
 ---
 
-### 🛠️ O que venho estudando
-
-> (Atualizando conforme minha evolução)
-
-* HTML5
-* CSS3
-* JavaScript
-* Git & GitHub
-* Lógica de programação
-* Engenharia de Software
-
----
-
-### 📈 Minha jornada
-
-Aqui registro minha evolução de forma progressiva, como um diário técnico.  
-Cada projeto representa uma etapa do meu crescimento como desenvolvedora.
+<p align="center">
+  <a href="https://www.linkedin.com/in/julia-guedes-364a00329/">
+    <img src="https://img.shields.io/badge/-LinkedIn-E37083?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/uaijulia">
+    <img src="https://img.shields.io/badge/-GitHub-89B7C2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://instagram.com/uaiiijulia">
+    <img src="https://img.shields.io/badge/-Instagram-C8B6D9?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:oi.juliaguedes@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-FCCD86?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 📫 Contato
+### 🌱 Em constante evolução
 
-* oi.juliaguedes@gmail.com
-
----
-
-> “A consistência constrói aquilo que o talento sozinho não sustenta.”
+Atualmente focada em fortalecer minha base em programação e desenvolver projetos práticos que resolvam problemas reais.
 
 ---
 
-⭐ Obrigada por visitar meu espaço de evolução.
+<p align="center">
+  ✨ “A consistência constrói aquilo que o talento sozinho não sustenta.” ✨
+</p>
