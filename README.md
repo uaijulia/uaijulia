@@ -8,7 +8,7 @@
 
 #### Oi, eu sou a Julia! 🌷
 
-Graduanda em **Análise e Desenvolvimento de Sistemas**, curiosa, criativa, apaixonada por aprender coisas novas, aplicar o conhecimento adquirido e admirar o resultado de um trabalho bem feito que possa ser útil e tocar a vida das pessoas! 
+Graduanda em **Análise e Desenvolvimento de Sistemas**, curiosa, criativa, apaixonada por aprender coisas novas, aplicar o conhecimento adquirido e admirar o resultado de um trabalho bem feito que possa ser útil, tocando a vida das pessoas com soluções reais!
 
 Este espaço é um diário da minha jornada, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
 
