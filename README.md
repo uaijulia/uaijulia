@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-guedes-364a00329">
-    <img src="[]" alt="capa julia guedes"/>
+    <img src="https://github.com/uaijulia/uaijulia/blob/main/julia-preview.png?raw=true" height="380"/>
   </a>
 </p>
 
@@ -11,6 +11,8 @@
 Eu sou Julia, graduanda em **Análise e Desenvolvimento de Sistemas**, curiosa, criativa, focada em desenvolvimento de sistemas e que adora ver o resultado de um trabalho bem feito! 
 
 Este espaço é um diário da minha jornada, quase como um blog técnico, onde organizo estudos, projetos e experiências ao longo do tempo.
+
+Tenho afinidade com **HTML, CSS, JavaScript, Python e C#**.
 
 ---
 
@@ -31,7 +33,7 @@ Este espaço é um diário da minha jornada, quase como um blog técnico, onde o
 
 ---
 
-Focada em fortalecer minha base em programação e desenvolver projetos práticos que resolvam problemas reais.
+<p align="center"> Focada em fortalecer minha base em programação e desenvolver projetos práticos que resolvam problemas reais. </p>
 
 ---
 
