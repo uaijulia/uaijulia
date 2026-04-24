@@ -31,9 +31,7 @@ Este espaço é um diário da minha jornada, quase como um blog técnico, onde o
 
 ---
 
-### 🌱 Em constante evolução
-
-Atualmente focada em fortalecer minha base em programação e desenvolver projetos práticos que resolvam problemas reais.
+Focada em fortalecer minha base em programação e desenvolver projetos práticos que resolvam problemas reais.
 
 ---
 
