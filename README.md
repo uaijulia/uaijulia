@@ -6,7 +6,7 @@
 
 ---
 
-#### Oi, eu sou a Julia!
+#### Oi, eu sou a Julia! 🌷
 
 Graduanda em **Análise e Desenvolvimento de Sistemas**, curiosa, criativa, focada em desenvolvimento de sistemas e que adora ver o resultado de um trabalho bem feito! 
 
